@@ -4,7 +4,7 @@ const Footer = () => (
   <footer>
     <hr />
     <p className="pull-right">
-      <i className="fa fa-github" aria-hidden="true" /> Proudly built using
+      <a href="https://github.com/wehbs" target="_blank"><i className="fa fa-github" aria-hidden="true" /></a> Proudly built using
       React.js
     </p>
   </footer>
