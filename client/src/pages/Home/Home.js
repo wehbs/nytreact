@@ -58,7 +58,7 @@ class Home extends Component {
           <Col size="md-12">
             <Jumbotron>
               <h1 className="text-center">
-                <strong>New York Times Article Scrubber</strong>
+                <strong>New York Times Article Search</strong>
               </h1>
               <h2 className="text-center">
                 Search for and save articles of interest.
