@@ -6,8 +6,8 @@ This is my first app that makes use of the entire MERN Stack. This app allows yo
 
 * Search Articles
 
-![ScreenShot](searcharticles.png "Liri")
+![ScreenShot](searcharticles.png "Search")
 
 * Saved Articles
 
-![ScreenShot](savedarticles.png "Liri")
+![ScreenShot](savedarticles.png "Saved")
